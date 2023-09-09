@@ -836,7 +836,7 @@ i.iconfont {
   --color-mode: "light";
   --body-bg-color: #eee;
   --board-bg-color: #fff;
-  --text-color: #3c4858;
+  --text-color: #39c5bb;
   --sec-text-color: #718096;
   --post-text-color: #2c3e50;
   --post-heading-color: #1a202c;
@@ -861,7 +861,7 @@ i.iconfont {
   :root:not([data-user-color-scheme]) {
     --body-bg-color: #181c27;
     --board-bg-color: #252d38;
-    --text-color: #c4c6c9;
+    --text-color: #66ccff;
     --sec-text-color: #a7a9ad;
     --post-text-color: #c4c6c9;
     --post-heading-color: #c4c6c9;
@@ -897,7 +897,7 @@ i.iconfont {
   [data-user-color-scheme="dark"] {
     --body-bg-color: #181c27;
     --board-bg-color: #252d38;
-    --text-color: #c4c6c9;
+    --text-color: #66ccff;
     --sec-text-color: #a7a9ad;
     --post-text-color: #c4c6c9;
     --post-heading-color: #c4c6c9;
